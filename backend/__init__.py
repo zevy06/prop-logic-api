@@ -1,0 +1,1 @@
+from .logic import generate_truth_table
